@@ -25,7 +25,7 @@ struct InstaQueenApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ChatView()
         }
         .modelContainer(sharedModelContainer)
     }
