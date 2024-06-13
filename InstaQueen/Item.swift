@@ -1,9 +1,3 @@
-//
-//  Item.swift
-//  InstaQueen
-//
-//  Created by Ages on 12/06/24.
-//
 
 import Foundation
 import SwiftData
